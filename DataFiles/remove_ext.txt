@@ -1,0 +1,10 @@
+TemporalKit
+Umi-AI
+adetailer
+ultimate-upscale-for-automatic1111
+sd_webui_SAG
+sd-webui-depth-lib
+sd-webui-deforum
+sd-webui-additional-networks
+sd-model-downloader
+openpose-editor

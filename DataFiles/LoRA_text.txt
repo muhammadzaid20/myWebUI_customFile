@@ -1,0 +1,7 @@
+https://civitai.com/api/download/models/21618?type=Model&format=SafeTensor&size=full&fp=fp16 nahida
+https://civitai.com/api/download/models/6214?type=Model&format=SafeTensor&size=full&fp=fp16 eris
+https://civitai.com/api/download/models/62833?type=Model&format=SafeTensor add_detail
+https://civitai.com/api/download/models/79226?type=Model&format=SafeTensor hyper_bulge
+https://civitai.com/api/download/models/11523?type=Model&format=SafeTensor&size=full&fp=fp16 yaemiko
+https://civitai.com/api/download/models/10029?type=Model&format=SafeTensor&size=full&fp=fp16 ahegaoo
+

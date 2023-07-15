@@ -1,0 +1,2 @@
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NoiseToner-Uniform-Detailed_100000_G.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NoiseToner-Poisson-Detailed_108000_G.pth

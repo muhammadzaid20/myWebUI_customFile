@@ -1,0 +1,14 @@
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKD-BrightenRedux_200k.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/1x_NMKD-YandereInpaint_375000_G.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Siax_200k.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Superscale-Artisoftject_210000_G.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-Superscale-SP_178000_G.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-UltraYandere-Lite_280k.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-UltraYandere_300k.pth
+https://huggingface.co/ac-pill/upscale_models/resolve/main/4x_NMKD-UpgifLiteV2_210k.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKD-YandereNeoXL_200k.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_NMKDSuperscale_Artisoft_120000_G.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Superscale_150000_G.pth
+https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Typescale_175k.pth
+https://huggingface.co/gemasai/8x_NMKD-Faces_160000_G/resolve/main/8x_NMKD-Faces_160000_G.pth
+https://huggingface.co/gemasai/2x_NMKD-DeGIF_210000_G/resolve/main/2x_NMKD-DeGIF_210000_G.pth

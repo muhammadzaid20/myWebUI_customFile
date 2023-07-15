@@ -1,0 +1,3 @@
+https://huggingface.co/ac-pill/upscale_models/resolve/main/4x_UniversalUpscalerV2-Sharper_103000_G.pth
+https://huggingface.co/ac-pill/upscale_models/resolve/main/4x_UniversalUpscalerV2-Sharp_101000_G.pth
+https://huggingface.co/ac-pill/upscale_models/resolve/main/4x_UniversalUpscalerV2-Neutral_115000_swaG.pth

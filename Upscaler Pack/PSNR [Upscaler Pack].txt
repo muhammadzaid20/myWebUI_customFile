@@ -1,0 +1,3 @@
+https://huggingface.co/uwg/upscaler/blob/main/ESRGAN/4xPSNR.pth
+https://huggingface.co/uwg/upscaler/blob/main/ESRGAN/8xPSNR.pth
+https://huggingface.co/uwg/upscaler/blob/main/ESRGAN/16xPSNR.pth
