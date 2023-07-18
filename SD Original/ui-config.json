@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "3d, cartoon, anime, sketches, realistic,(worst quality, bad quality:1.1), ((monochrome)), ((grayscale)), (EasyNegativeV2:0.8)",
+    "txt2img/Negative prompt/value": "3d, cartoon, anime, sketches, realistic,(worst quality, bad quality:1.1), ((monochrome)), ((grayscale)), (EasyNegativeV2:0.7)",
     "txt2img/Generate/visible": true,
     "txt2img/Stop/visible": true,
     "txt2img/Skip/visible": true,
