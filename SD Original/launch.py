@@ -26,8 +26,8 @@ start = launch_utils.start
 def main():
     if not args.skip_prepare_environment:
         prepare_environment()
-        os.system(f"""sed -i -e "s/dict()))/dict())).cuda()/g" /content/automatic/repositories/stable-diffusion-stability-ai/ldm/util.py""")
-    os.system(f"""sed -i -e "s/dict()))/dict())).cuda()/g" /content/automatic/repositories/stable-diffusion-stability-ai/ldm/util.py""")
+        os.system(f"""sed -i -e "s/dict()))/dict())).cuda()/g" /content/cagliostro-colab-ui/repositories/stable-diffusion-stability-ai/ldm/util.py""")
+    os.system(f"""sed -i -e "s/dict()))/dict())).cuda()/g" /content/cagliostro-colab-ui/repositories/stable-diffusion-stability-ai/ldm/util.py""")
 
     if args.test_server:
         configure_for_tests()
