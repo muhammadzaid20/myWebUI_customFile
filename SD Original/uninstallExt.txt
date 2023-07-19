@@ -10,3 +10,5 @@ stable-diffusion-webui-model-toolkit
 stable-diffusion-webui-two-shot
 Stable-Diffusion-WebUI-Image-Filters
 multidiffusion-upscaler-for-automatic1111
+sd-webui-controlnet
+sd-webui-llul
