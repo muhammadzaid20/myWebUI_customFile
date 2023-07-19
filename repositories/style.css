@@ -3982,14 +3982,6 @@ div[data-testid="image"] canvas {
   transition: transform 0.65s cubic-bezier(0.3, 1, 0.3, 1);
   contain: layout size;
   will-change: transform, contents;
-  touch-action: pan-zoom; /* Aktifkan zoom in dan zoom out dengan gerakan jari */
-  transform-origin: center center; /* Tentukan titik asal transformasi saat zoom */
-  transform: scale(1);
-}
-
-.spl-pane:active {
-  /* Properti untuk memperbesar elemen ketika di-zoom */
-  transform: scale(1.5); /* Ubah angka sesuai kebutuhan */
 }
 
 .spl-pane.hide img {
