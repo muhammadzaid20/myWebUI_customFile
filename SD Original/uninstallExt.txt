@@ -8,3 +8,5 @@ sd-webui-regional-prompter
 stable-diffusion-webui-composable-lora
 stable-diffusion-webui-model-toolkit
 stable-diffusion-webui-two-shot
+Stable-Diffusion-WebUI-Image-Filters
+multidiffusion-upscaler-for-automatic1111
