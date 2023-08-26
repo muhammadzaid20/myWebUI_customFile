@@ -1,18 +1,16 @@
-%cd /content/cagliostro-colab-ui/extensions
+a1111-sd-webui-tagcomplete
+Umi-AI-debloat
+adetailer
+sd-webui-additional-networks
+sd-dynamic-thresholding
+sd-webui-cutoff
+sd-webui-regional-prompter
+stable-diffusion-webui-composable-lora
+stable-diffusion-webui-model-toolkit
+stable-diffusion-webui-two-shot
+Stable-Diffusion-WebUI-Image-Filters
+multidiffusion-upscaler-for-automatic1111
+sd-webui-controlnet
+sd-webui-llul
 
-!rm -rf a1111-sd-webui-tagcomplete
-!rm -rf Umi-AI-debloat
-!rm -rf adetailer
-!rm -rf sd-webui-additional-networks
-!rm -rf sd-dynamic-thresholding
-!rm -rf sd-webui-cutoff
-!rm -rf sd-webui-regional-prompter
-!rm -rf stable-diffusion-webui-composable-lora
-!rm -rf stable-diffusion-webui-model-toolkit
-!rm -rf stable-diffusion-webui-two-shot
-!rm -rf Stable-Diffusion-WebUI-Image-Filters
-!rm -rf multidiffusion-upscaler-for-automatic1111
-!rm -rf sd-webui-controlnet
-!rm -rf sd-webui-llul
 
-%cd /content/cagliostro-colab-ui
