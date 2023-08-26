@@ -1,1 +1,1 @@
-"/content/cagliostro-colab-ui/config.json"
+/content/cagliostro-colab-ui/config.json
