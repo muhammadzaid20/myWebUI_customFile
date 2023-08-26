@@ -1,8 +1,8 @@
-%cd /content/cagliostro-colab-ui/extensions
+%cd "/content/cagliostro-colab-ui/extensions"
 !git clone https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 !git clone https://github.com/jexom/sd-webui-depth-lib
 
-%cd /content/cagliostro-colab-ui/repositories
+%cd "/content/cagliostro-colab-ui/repositories"
 !git clone https://github.com/isl-org/MiDaS
 
-%cd /content/cagliostro-colab-ui
+%cd "/content/cagliostro-colab-ui"
