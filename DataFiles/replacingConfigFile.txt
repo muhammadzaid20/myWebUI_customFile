@@ -1,2 +1,2 @@
-!cp -f "/content/myWebUI_customFile/SD Original/config.json" "/content/cagliostro-colab-ui"
-!cp -f "/content/myWebUI_customFile/SD Original/ui-config.json" "/content/cagliostro-colab-ui"
+"/content/myWebUI_customFile/SD Original/config.json" "/content/cagliostro-colab-ui"
+"/content/myWebUI_customFile/SD Original/ui-config.json" "/content/cagliostro-colab-ui"
