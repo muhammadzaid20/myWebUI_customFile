@@ -1,1 +1,1 @@
-"cagliostro-colab-ui"
+cagliostro-colab-ui
