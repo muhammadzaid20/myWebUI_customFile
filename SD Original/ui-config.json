@@ -20,7 +20,7 @@
     "txt2img/Sampling method/visible": true,
     "txt2img/Sampling method/value": "Euler a",
     "txt2img/Sampling steps/visible": true,
-    "txt2img/Sampling steps/value": 20,
+    "txt2img/Sampling steps/value": 30,
     "txt2img/Sampling steps/minimum": 1,
     "txt2img/Sampling steps/maximum": 99,
     "txt2img/Sampling steps/step": 1,
