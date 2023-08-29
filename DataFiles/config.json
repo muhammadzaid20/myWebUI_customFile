@@ -4,7 +4,7 @@
   "sd_model_refiner": "None",
   "sd_checkpoint_cache": 0,
   "sd_vae_checkpoint_cache": 0,
-  "sd_vae": "cagliostro-colab-ui",
+  "sd_vae": "automatic",
   "sd_model_dict": "None",
   "stream_load": false,
   "model_reuse_dict": false,
