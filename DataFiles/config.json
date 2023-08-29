@@ -8,7 +8,7 @@
     "sd_model_dict": "None",
     "stream_load": false,
     "model_reuse_dict": false,
-    "prompt_attention": "Full parser",
+    "prompt_attention": "A1111 parser",
     "prompt_mean_norm": true,
     "comma_padding_backtrack": 20,
     "sd_disable_ckpt": false,
