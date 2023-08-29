@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "(worst quality, bad quality:1.4), ((monochrome)), ((grayscale)), (EasyNegativeV2:0.9),(ugly,ugly face,muscular,muscular body,adult body,teen body,adult,teen, mature ,pubic hair:1.7)",
+    "txt2img/Negative prompt/value": "(worst quality, bad quality:1.4), ((monochrome)), ((grayscale)), (EasyNegativeV2:0.9),(big head,ugly,ugly face,muscular,muscular body,adult body,teen body,adult,teen, mature ,pubic hair:1.7)",
     "txt2img/Generate/visible": true,
     "txt2img/Stop/visible": true,
     "txt2img/Skip/visible": true,
