@@ -29,7 +29,7 @@
   "cuda_dtype": "FP16",
   "no_half": false,
   "no_half_vae": true,
-  "upcast_sampling": true,
+  "upcast_sampling": false,
   "upcast_attn": false,
   "disable_nan_check": true,
   "rollback_vae": false,
