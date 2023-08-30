@@ -54,7 +54,7 @@
     "code_former_weight": 0.5,
     "face_restoration_unload": false,
     "show_warnings": false,
-    "memmon_poll_rate": 2,
+    "memmon_poll_rate": 8,
     "samples_log_stdout": false,
     "multiple_tqdm": true,
     "print_hypernet_extra": false,
