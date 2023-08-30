@@ -24,7 +24,7 @@
     "token_merging_ratio_img2img": 0.0,
     "token_merging_ratio_hr": 0.0,
     "sd_vae_sliced_encode": true,
-    "memmon_poll_rate": 2,
+    "memmon_poll_rate": 8,
     "precision": "Autocast",
     "cuda_dtype": "FP32",
     "no_half": false,
