@@ -1,7 +1,6 @@
 a1111-sd-webui-tagcomplete
 a1111-sd-webui-lycoris
 Umi-AI-debloat
-adetailer
 sd-webui-additional-networks
 sd-dynamic-thresholding
 sd-webui-cutoff
