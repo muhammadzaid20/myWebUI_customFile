@@ -12,5 +12,6 @@ Stable-Diffusion-WebUI-Image-Filters
 multidiffusion-upscaler-for-automatic1111
 sd-webui-controlnet
 sd-webui-llul
+Stable-Diffusion-Webui-Civitai-Helper
 
 
