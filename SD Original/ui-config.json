@@ -31,7 +31,7 @@
     "txt2img/Hires fix/visible": true,
     "txt2img/Hires fix/value": false,
     "txt2img/Denoising strength/visible": true,
-    "txt2img/Denoising strength/value": 0.4,
+    "txt2img/Denoising strength/value": 0.3,
     "txt2img/Denoising strength/minimum": 0.0,
     "txt2img/Denoising strength/maximum": 1.0,
     "txt2img/Denoising strength/step": 0.01,
@@ -239,9 +239,9 @@
     "customscript/tilediffusion.py/txt2img/Enable Region 8/visible": true,
     "customscript/tilediffusion.py/txt2img/Enable Region 8/value": false,
     "customscript/vae_optimize.py/txt2img/Enable Tiled VAE/visible": true,
-    "customscript/vae_optimize.py/txt2img/Enable Tiled VAE/value": false,
+    "customscript/vae_optimize.py/txt2img/Enable Tiled VAE/value": true,
     "customscript/vae_optimize.py/txt2img/Move VAE to GPU (if possible)/visible": true,
-    "customscript/vae_optimize.py/txt2img/Move VAE to GPU (if possible)/value": true,
+    "customscript/vae_optimize.py/txt2img/Move VAE to GPU (if possible)/value": false,
     "customscript/vae_optimize.py/txt2img/Encoder Tile Size/visible": true,
     "customscript/vae_optimize.py/txt2img/Encoder Tile Size/value": 2048,
     "customscript/vae_optimize.py/txt2img/Encoder Tile Size/minimum": 256,
@@ -4425,5 +4425,6 @@
     "agent_scheduler/\u27a0 Text/visible": true,
     "agent_scheduler/\u27a0 Image/visible": true,
     "agent_scheduler/\u27a0 Inpaint/visible": true,
-    "agent_scheduler/\u27a0 Process/visible": true
+    "agent_scheduler/\u27a0 Process/visible": true,
+    "downloader/Custom Download Path/value": "Unset, Please Choose your Content Type"
 }
