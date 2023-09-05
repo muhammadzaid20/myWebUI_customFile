@@ -2,6 +2,12 @@ GitPython
 Pillow
 accelerate
 
+colorama
+insightface
+ifnude
+insightface
+pyfunctional
+
 basicsr
 blendmodes
 clean-fid
