@@ -1,5 +1,4 @@
 colorama
-insightface
 pyfunctional
 
 GitPython
