@@ -1,12 +1,12 @@
-GitPython
-Pillow
-accelerate
-
 colorama
 insightface
 ifnude
 insightface
 pyfunctional
+
+GitPython
+Pillow
+accelerate
 
 basicsr
 blendmodes
