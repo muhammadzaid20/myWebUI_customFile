@@ -1,7 +1,5 @@
 colorama
 insightface
-ifnude
-insightface
 pyfunctional
 
 GitPython
