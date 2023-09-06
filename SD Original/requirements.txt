@@ -1,5 +1,6 @@
 colorama
 pyfunctional
+python-dotenv
 
 GitPython
 Pillow
