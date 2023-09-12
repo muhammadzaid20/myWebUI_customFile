@@ -1,5 +1,6 @@
 colorama
 pyfunctional
+fastapi>=0.90.1
 
 astunparse
 blendmodes
