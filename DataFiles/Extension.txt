@@ -1,3 +1,2 @@
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
 https://github.com/jexom/sd-webui-depth-lib
-https://github.com/Physton/sd-webui-prompt-all-in-one
